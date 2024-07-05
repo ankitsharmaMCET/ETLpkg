@@ -29,3 +29,4 @@ transform_data <- function(data) {
 load_data <- function(data, path) {
   write.csv(data, path, row.names = FALSE)
 }
+

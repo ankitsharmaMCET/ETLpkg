@@ -1,11 +1,11 @@
-Package: etlpackage
+Package: ETLpkg
 Type: Package
-Title: ETL Operations on Dummy Data
+Title: What the Package Does (Title Case)
 Version: 0.1.0
-Author: Your Name
-Maintainer: Your Name <your.email@example.com>
-Description: A package to demonstrate ETL operations on dummy data.
-License: GPL-3
-Depends: 
-    R (>= 2.10)
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
 LazyData: true
